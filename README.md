@@ -1,7 +1,5 @@
 # Welcome to Erga-Labs!
 
-![Erga-Labs Logo](path-to-logo-image) *(optional if you have a logo)*
-
 Welcome to **Erga-Labs**! We are a community of passionate developers, creators, and innovators dedicated to exploring the limitless possibilities of coding. Whether you're a beginner taking your first steps in programming or an experienced developer looking to collaborate on cutting-edge projects, Erga-Labs is the place for you.
 
 ## About Erga-Labs
